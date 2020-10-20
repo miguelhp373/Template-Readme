@@ -53,6 +53,6 @@ Tecnologias que usei para desenvolver este cliente web:
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENÇA](LICENSE) para obter detalhes.
 
----
+***
 
 Feito com 💜 &nbsp;por Miguel Henrique 👋
