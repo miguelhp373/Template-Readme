@@ -1,55 +1,36 @@
-<h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  Logo do Aplicativo
-</h1>
+# Nome do produto
+> Descrição curta sobre o que seu projeto faz.
 
-<h3 align="center">
-  Titulo
-</h3>
+De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-<p align="center">O que este app é:</p>
+![](../header.png)
 
+# 💻 Instalação
 
-***
+## Instale as dependências:
 
-## 👨🏻‍💻 Sobre o Projeto
-XXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXX
+```yarn install``` ou ```npm install```
 
-***
-
-## 🚀 Tecnologias
-
-Tecnologias que usei para desenvolver este cliente web:
-
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Router DOM](https://reacttraining.com/react-router/)
-- [React Icons](https://react-icons.netlify.com/#/)
-- [UnForm](https://unform.dev/) [💜](https://rocketseat.com.br/)
-- [Yup](https://github.com/jquense/yup)
-- [Styled Components](https://styled-components.com/)
-- [Polished](https://github.com/styled-components/polished)
-- [Axios](https://github.com/axios/axios)
-
-
-# 💻 Começando
-
-## Requisitos
-
-**Siga os passos abaixo:**
-
-## Instale as dependências
-
-`yarn install` ou `npm install`
-
-## Iniciando o Projeto
+## Iniciando o Projeto:
 
 `yarn start` ou `npm start`
 ***
+# :paperclip: Histórico de Versões
 
-## 📝 License
+* 0.2.1
+    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
+* 0.2.0
+    * MUDANÇA: Remove `setDefaultXYZ()`
+    * ADD: Adiciona `init()`
+* 0.1.1
+    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
+* 0.1.0
+    * O primeiro lançamento adequado
+    * MUDANÇA: Renomeia `foo()` para `bar()`
+* 0.0.1
+    * Trabalho em andamento
+***
+# 📝 License
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENÇA](LICENSE) para obter detalhes.
 
